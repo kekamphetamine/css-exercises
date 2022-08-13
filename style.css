@@ -5,3 +5,24 @@ div {
   text-align: center;
   font-weight: bold;
 }
+
+.odd {
+  background-color: #db536a;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+  font-size: 36px;
+  color: blue;
+}
+
+.quirky { /* #3 */
+  font-size: 24px;
+}
+
+#four {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: lightgreen;
+}
+
