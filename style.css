@@ -1,15 +1,13 @@
-.black,
-.yellow {
-  font-size: 28px;
-  font-family: Heletica, 'Times New Roman', sans-serif;
-
+.avatar.porportioned{
+    height: auto;
+    width: 300px;
+    
 }
 
-.black {
-  background-color: black;
-  color: white;
-}
 
-.yellow {
-  background-color: yellow;
+
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
