@@ -1,28 +1,15 @@
-div {
-  background-color: red;
+.black,
+.yellow {
+  font-size: 28px;
+  font-family: Heletica, 'Times New Roman', sans-serif;
+
+}
+
+.black {
+  background-color: black;
   color: white;
-  font-size: 32px;
-  text-align: center;
-  font-weight: bold;
 }
 
-.odd {
-  background-color: #db536a;
-  font-family: Verdana, DejaVu Sans, sans-serif;
+.yellow {
+  background-color: yellow;
 }
-
-#two {
-  font-size: 36px;
-  color: blue;
-}
-
-.quirky { /* #3 */
-  font-size: 24px;
-}
-
-#four {
-  font-size: 24px;
-  font-weight: bold;
-  background-color: lightgreen;
-}
-
