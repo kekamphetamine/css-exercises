@@ -1,42 +1,30 @@
-body{
-    font-family:Arial, Helvetica, sans-serif
-  }
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.one {
+  background: pink;
+  border: 3px solid blue;
+  /* CHANGE ME */
+  padding: 32px;
+  margin: 12px;
   
-  .para,
-  .small-para {
-    color: hsl(0, 0%, 0%);
-    font-weight: 800;
-  }
-  
-  .para.small-para {
-    font-size: 14px;
-    font-weight: 800;
-  }
-  
-  .para {
-    font-size: 22px;
-  }
-  
-  .button.confirm {
-    background: green;
-    color: white;
-    font-weight: bold;
-  } 
-  
-  .button {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    font-size: 20px;
-  }
-  
-  .text.child {
-    color: rgb(0, 0, 0);
-    font-weight: 800;
-    font-size: 14px;
-  }
-  
-   .text{
-    color: rgb(0, 0, 0);
-    font-size: 22px;
-    font-weight: 100;
-  }
+}
+
+.two {
+  background: lightblue;
+  border: 3px solid purple;
+  /* CHANGE ME */
+  margin-bottom: 48px;
+}
+
+.three {
+  background: peachpuff;
+  border: 3px solid brown;
+  width: 200px;
+  /* CHANGE ME */
+  padding: 32px;
+  margin-left: auto;
+ 
+}
